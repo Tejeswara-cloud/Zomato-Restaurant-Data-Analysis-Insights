@@ -19,7 +19,7 @@ The analysis focuses on transforming raw restaurant data into actionable busines
 * Generate business recommendations that can support restaurant partnerships and customer engagement strategies.
 
 ### Dataset Link
-    Link: https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
+https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
 
 ## 🛠️ Technologies Used
 
