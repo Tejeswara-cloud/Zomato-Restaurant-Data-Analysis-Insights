@@ -18,6 +18,9 @@ The analysis focuses on transforming raw restaurant data into actionable busines
 * Create visualizations including bar charts, scatter plots, correlation heatmaps, and word clouds.
 * Generate business recommendations that can support restaurant partnerships and customer engagement strategies.
 
+### Dataset Link
+    Link: https://www.kaggle.com/datasets/bhanupratapbiswas/zomato
+
 ## 🛠️ Technologies Used
 
 * **Python**
